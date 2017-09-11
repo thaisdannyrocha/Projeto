@@ -1,0 +1,11 @@
+#navPrincipal{
+	padding-left: 240px;
+}
+@media only screen and (max-width : 992px) {
+	#navPrincipal{
+	padding-left: 0;
+	}
+}
+#conteudo{
+	margin-left:240px;
+}

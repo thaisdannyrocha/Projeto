@@ -1,0 +1,25 @@
+{
+  "name": "almasaeed2010/adminlte",
+  "description": "Projeto criado como avaliação para Processo Seletivo de Desenvolvedor Front End",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Thais Daniel da Rocha",
+      "email": "thais.danny.rocha@hotmail.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/almasaeed2010/AdminLTE/issues"
+  }
+}
